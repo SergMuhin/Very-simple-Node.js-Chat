@@ -2,7 +2,7 @@
 
 Getting started:
 
-1. clone this repo
-2. cd path/to/
-3. npm install
-5. node server.js
+1. Clone this repo
+2. Cd path/to/
+3. Npm install
+5. Node server.js
